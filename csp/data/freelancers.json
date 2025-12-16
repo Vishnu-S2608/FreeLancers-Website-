@@ -1,0 +1,1978 @@
+[{
+  "_id": {
+    "$oid": "68f0a6c3bd8683bff2d02629"
+  },
+  "name": "S.VISHNU",
+  "email": "verseofvishnu@gmail.com",
+  "category": "Web development",
+  "price": 1999,
+  "city": "Chennai",
+  "pincode": "565656",
+  "averageRating": 13,
+  "totalRatings": 13,
+  "ratingSum": 0,
+  "projects": [
+    {
+      "projectTitle": "landing page",
+      "clientName": "S.VISHNU",
+      "clientEmail": "verseofvishnu@gmail.com",
+      "amount": 19,
+      "_id": {
+        "$oid": "68f0aa3abd8683bff2d02652"
+      }
+    },
+    {
+      "projectTitle": "ert",
+      "clientName": "S.VISHNU",
+      "clientEmail": "verseofvishnu@gmail.com",
+      "amount": 29,
+      "_id": {
+        "$oid": "68f10c1262d15fee99683e1f"
+      }
+    },
+    {
+      "projectTitle": "5000",
+      "clientName": "S.VISHNU",
+      "clientEmail": "verseofvishnu@gmail.com",
+      "amount": 29,
+      "_id": {
+        "$oid": "68f372adf6650132cc3b5ccf"
+      }
+    },
+    {
+      "projectTitle": "home page",
+      "clientName": "S.VISHNU",
+      "clientEmail": "verseofvishnu@gmail.com",
+      "amount": 49,
+      "_id": {
+        "$oid": "68f376caf6650132cc3b5db6"
+      }
+    },
+    {
+      "projectTitle": "land",
+      "clientName": "S.VISHNU",
+      "clientEmail": "verseofvishnu@gmail.com",
+      "amount": 19,
+      "_id": {
+        "$oid": "68f3bf644d6261cec5fdab7a"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f1221cf894f9d2bcb7b443"
+  },
+  "name": "S.VISHNU",
+  "email": "verseofvishnu@gmail.com",
+  "category": "Charted Accountant",
+  "price": 1000,
+  "city": "Madurai",
+  "pincode": "656565",
+  "averageRating": 0,
+  "totalRatings": 0,
+  "ratingSum": 0,
+  "projects": [],
+  "__v": 0
+},
+
+{
+  "_id": {
+    "$oid": "68f371a6f6650132cc3b5c76"
+  },
+  "name": "Madhav",
+  "email": "verseofvishnu@gmail.com",
+  "category": "Charted Accountant",
+  "price": 1000,
+  "city": "Sattur",
+  "pincode": "626201",
+  "averageRating": 0,
+  "totalRatings": 0,
+  "ratingSum": 0,
+  "projects": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f375c6f6650132cc3b5d4d"
+  },
+  "name": "S.VISHNU",
+  "email": "verseofvishnu@gmail.com",
+  "category": "Personal Training Assistant",
+  "price": 2500,
+  "city": "6265656",
+  "pincode": "232323",
+  "averageRating": 0,
+  "totalRatings": 0,
+  "ratingSum": 0,
+  "projects": [],
+  "__v": 0
+},
+
+{
+  "_id": {
+    "$oid": "68f379a5f6650132cc3b5e62"
+  },
+  "name": "Madhav",
+  "email": "9923008141@klu.ac.in",
+  "category": "Charted Accountant",
+  "price": 500,
+  "city": "Sattur",
+  "pincode": "545454",
+  "averageRating": 0,
+  "totalRatings": 0,
+  "ratingSum": 0,
+  "projects": [],
+  "__v": 0
+},
+
+{
+  "_id": {
+    "$oid": "68f89b8935cad66330ae477e"
+  },
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "category": "Web Development",
+  "price": 500,
+  "city": "New York",
+  "pincode": "10001",
+  "averageRating": 4.5,
+  "projects": [
+    {
+      "projectTitle": "Website Redesign",
+      "clientName": "Acme Corp",
+      "clientEmail": "client1@acme.com",
+      "amount": 300,
+      "review": "Excellent work, very professional",
+      "rating": 5
+    },
+    {
+      "projectTitle": "Landing Page Creation",
+      "clientName": "Beta LLC",
+      "clientEmail": "client2@beta.com",
+      "amount": 200,
+      "review": "Good job, delivered on time",
+      "rating": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f89cfc35cad66330ae477f"
+  },
+  "name": "Iklash Kumar",
+  "email": "iklash.kumar@example.com",
+  "category": "Web Development",
+  "price": 500,
+  "city": "Mumbai",
+  "pincode": "400001",
+  "averageRating": 4.2,
+  "projects": [
+    {
+      "projectTitle": "Website Redesign",
+      "clientName": "Acme Corp",
+      "clientEmail": "client1@acme.com",
+      "amount": 300,
+      "review": "Excellent work",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f89cfc35cad66330ae4780"
+  },
+  "name": "Ahamed Ali",
+  "email": "ahamed.ali@example.com",
+  "category": "Content Writer",
+  "price": 150,
+  "city": "Delhi",
+  "pincode": "110001",
+  "averageRating": 4,
+  "projects": [
+    {
+      "projectTitle": "Blog Writing",
+      "clientName": "Tech Media",
+      "clientEmail": "client2@techmedia.com",
+      "amount": 100,
+      "review": "Good writing",
+      "rating": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f89cfc35cad66330ae4781"
+  },
+  "name": "Santosh Reddy",
+  "email": "santosh.reddy@example.com",
+  "category": "Charted Accountant",
+  "price": 800,
+  "city": "Bangalore",
+  "pincode": "560001",
+  "averageRating": 4.8,
+  "projects": [
+    {
+      "projectTitle": "Tax Filing",
+      "clientName": "FinCorp",
+      "clientEmail": "client3@fincorp.com",
+      "amount": 500,
+      "review": "Very professional",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f89cfc35cad66330ae4782"
+  },
+  "name": "Ankit Sharma",
+  "email": "ankit.sharma@example.com",
+  "category": "Hand Artist",
+  "price": 200,
+  "city": "Jaipur",
+  "pincode": "302001",
+  "averageRating": 4.5,
+  "projects": [
+    {
+      "projectTitle": "Custom Art Piece",
+      "clientName": "Art Lovers",
+      "clientEmail": "client4@artlovers.com",
+      "amount": 150,
+      "review": "Beautiful artwork",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f89cfc35cad66330ae4783"
+  },
+  "name": "Ganesh Patil",
+  "email": "ganesh.patil@example.com",
+  "category": "Software Engineer",
+  "price": 600,
+  "city": "Pune",
+  "pincode": "411001",
+  "averageRating": 4.6,
+  "projects": [
+    {
+      "projectTitle": "App Development",
+      "clientName": "StartupX",
+      "clientEmail": "client5@startupx.com",
+      "amount": 400,
+      "review": "Highly skilled",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f89cfc35cad66330ae4784"
+  },
+  "name": "Riya Singh",
+  "email": "riya.singh@example.com",
+  "category": "Content Writer",
+  "price": 180,
+  "city": "Kolkata",
+  "pincode": "700001",
+  "averageRating": 4.1,
+  "projects": [
+    {
+      "projectTitle": "Article Writing",
+      "clientName": "NewsCorp",
+      "clientEmail": "client6@newscorp.com",
+      "amount": 120,
+      "review": "Well written",
+      "rating": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f89cfc35cad66330ae4785"
+  },
+  "name": "Vikram Das",
+  "email": "vikram.das@example.com",
+  "category": "Web Development",
+  "price": 550,
+  "city": "Chennai",
+  "pincode": "600001",
+  "averageRating": 4.3,
+  "projects": [
+    {
+      "projectTitle": "E-commerce Website",
+      "clientName": "ShopOnline",
+      "clientEmail": "client7@shoponline.com",
+      "amount": 350,
+      "review": "Excellent coding",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f89cfc35cad66330ae4786"
+  },
+  "name": "Priya Mehra",
+  "email": "priya.mehra@example.com",
+  "category": "Charted Accountant",
+  "price": 750,
+  "city": "Delhi",
+  "pincode": "110002",
+  "averageRating": 4.7,
+  "projects": [
+    {
+      "projectTitle": "Audit Services",
+      "clientName": "FinSolutions",
+      "clientEmail": "client8@finsolutions.com",
+      "amount": 500,
+      "review": "Very reliable",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f89cfc35cad66330ae4787"
+  },
+  "name": "Iklash Khan",
+  "email": "iklash.khan@example.com",
+  "category": "Hand Artist",
+  "price": 220,
+  "city": "Udaipur",
+  "pincode": "313001",
+  "averageRating": 4.4,
+  "projects": [
+    {
+      "projectTitle": "Sketch Portrait",
+      "clientName": "ArtWorld",
+      "clientEmail": "client9@artworld.com",
+      "amount": 180,
+      "review": "Loved it",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f89cfc35cad66330ae4788"
+  },
+  "name": "Ahamed Faiz",
+  "email": "ahamed.faiz@example.com",
+  "category": "Software Engineer",
+  "price": 620,
+  "city": "Bangalore",
+  "pincode": "560002",
+  "averageRating": 4.5,
+  "projects": [
+    {
+      "projectTitle": "Backend API",
+      "clientName": "TechSolutions",
+      "clientEmail": "client10@techsolutions.com",
+      "amount": 400,
+      "review": "Fast and efficient",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f89deb2184bbe37f771b7d"
+  },
+  "name": "S.VISHNU",
+  "email": "verseofvishnu@gmail.com",
+  "category": "Hand Artist",
+  "price": 1000,
+  "city": "Sattur",
+  "pincode": "656565",
+  "averageRating": 0,
+  "totalRatings": 0,
+  "ratingSum": 0,
+  "projects": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f8d2285fc8889c9fc4af7f"
+  },
+  "name": "Alice Johnson",
+  "email": "alice.johnson@example.com",
+  "category": "Web Developer",
+  "price": 50,
+  "city": "New York",
+  "pincode": "10001",
+  "averageRating": 4.8,
+  "totalRatings": 5,
+  "ratingSum": 24,
+  "projects": [
+    {
+      "projectTitle": "E-commerce Website",
+      "clientName": "Company A",
+      "clientEmail": "clienta@example.com",
+      "amount": 1000,
+      "review": "Excellent work!",
+      "rating": 5
+    },
+    {
+      "projectTitle": "Portfolio Site",
+      "clientName": "Client B",
+      "clientEmail": "clientb@example.com",
+      "amount": 500,
+      "review": "Very satisfied.",
+      "rating": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d2285fc8889c9fc4af80"
+  },
+  "name": "Bob Smith",
+  "email": "bob.smith@example.com",
+  "category": "Graphic Designer",
+  "price": 40,
+  "city": "Los Angeles",
+  "pincode": "90001",
+  "averageRating": 4.5,
+  "totalRatings": 10,
+  "ratingSum": 45,
+  "projects": [
+    {
+      "projectTitle": "Logo Design",
+      "clientName": "Company C",
+      "clientEmail": "clientc@example.com",
+      "amount": 200,
+      "review": "Great creativity.",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d2285fc8889c9fc4af81"
+  },
+  "name": "Carol Lee",
+  "email": "carol.lee@example.com",
+  "category": "Mobile App Developer",
+  "price": 60,
+  "city": "Chicago",
+  "pincode": "60601",
+  "averageRating": 4.9,
+  "totalRatings": 8,
+  "ratingSum": 39,
+  "projects": [
+    {
+      "projectTitle": "iOS App",
+      "clientName": "Startup X",
+      "clientEmail": "startx@example.com",
+      "amount": 2000,
+      "review": "Fantastic job.",
+      "rating": 5
+    },
+    {
+      "projectTitle": "Android App",
+      "clientName": "Company Y",
+      "clientEmail": "companyy@example.com",
+      "amount": 1800,
+      "review": "Highly recommended.",
+      "rating": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d2285fc8889c9fc4af82"
+  },
+  "name": "David Kim",
+  "email": "david.kim@example.com",
+  "category": "Content Writer",
+  "price": 30,
+  "city": "San Francisco",
+  "pincode": "94101",
+  "averageRating": 4.7,
+  "totalRatings": 6,
+  "ratingSum": 28,
+  "projects": [
+    {
+      "projectTitle": "Blog Posts",
+      "clientName": "BlogCorp",
+      "clientEmail": "blogcorp@example.com",
+      "amount": 300,
+      "review": "Very professional.",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d2285fc8889c9fc4af83"
+  },
+  "name": "Emily Davis",
+  "email": "emily.davis@example.com",
+  "category": "SEO Specialist",
+  "price": 45,
+  "city": "New York",
+  "pincode": "10001",
+  "averageRating": 4.6,
+  "totalRatings": 7,
+  "ratingSum": 32,
+  "projects": [
+    {
+      "projectTitle": "Website SEO",
+      "clientName": "Company Z",
+      "clientEmail": "companyz@example.com",
+      "amount": 800,
+      "review": "Good results.",
+      "rating": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d2285fc8889c9fc4af84"
+  },
+  "name": "Frank Miller",
+  "email": "frank.miller@example.com",
+  "category": "Web Developer",
+  "price": 55,
+  "city": "Los Angeles",
+  "pincode": "90001",
+  "averageRating": 4.8,
+  "totalRatings": 9,
+  "ratingSum": 43,
+  "projects": [
+    {
+      "projectTitle": "Corporate Website",
+      "clientName": "Company W",
+      "clientEmail": "companyw@example.com",
+      "amount": 1200,
+      "review": "Excellent coding skills.",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d2285fc8889c9fc4af85"
+  },
+  "name": "Grace Lee",
+  "email": "grace.lee@example.com",
+  "category": "Graphic Designer",
+  "price": 35,
+  "city": "Chicago",
+  "pincode": "60601",
+  "averageRating": 4.4,
+  "totalRatings": 4,
+  "ratingSum": 18,
+  "projects": [
+    {
+      "projectTitle": "Brand Identity",
+      "clientName": "Startup Y",
+      "clientEmail": "startupy@example.com",
+      "amount": 600,
+      "review": "Creative and fast.",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d2285fc8889c9fc4af86"
+  },
+  "name": "Henry Adams",
+  "email": "henry.adams@example.com",
+  "category": "Mobile App Developer",
+  "price": 65,
+  "city": "San Francisco",
+  "pincode": "94101",
+  "averageRating": 4.9,
+  "totalRatings": 10,
+  "ratingSum": 49,
+  "projects": [
+    {
+      "projectTitle": "Fitness App",
+      "clientName": "HealthTech",
+      "clientEmail": "healthtech@example.com",
+      "amount": 2500,
+      "review": "Outstanding performance.",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d2285fc8889c9fc4af87"
+  },
+  "name": "Isabella Johnson",
+  "email": "isabella.johnson@example.com",
+  "category": "Content Writer",
+  "price": 28,
+  "city": "New York",
+  "pincode": "10001",
+  "averageRating": 4.5,
+  "totalRatings": 5,
+  "ratingSum": 22,
+  "projects": [
+    {
+      "projectTitle": "Marketing Copy",
+      "clientName": "Company A",
+      "clientEmail": "clienta@example.com",
+      "amount": 400,
+      "review": "Well written.",
+      "rating": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c05"
+  },
+  "name": "Vikram Chopra",
+  "email": "vikram.chopra73@example.com",
+  "category": "Data Analyst",
+  "price": 338,
+  "city": "Chennai",
+  "pincode": "635723",
+  "averageRating": 4.1,
+  "projects": [
+    {
+      "projectTitle": "Data Analyst Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 270,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.1
+    },
+    {
+      "projectTitle": "Data Analyst Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 202,
+      "review": "Work met expectations.",
+      "rating": 3.8999999999999995
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c06"
+  },
+  "name": "Meena Patel",
+  "email": "meena.patel18@example.com",
+  "category": "Data Analyst",
+  "price": 989,
+  "city": "Kolkata",
+  "pincode": "535524",
+  "averageRating": 4.9,
+  "projects": [
+    {
+      "projectTitle": "Data Analyst Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 791,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.9
+    },
+    {
+      "projectTitle": "Data Analyst Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 593,
+      "review": "Work met expectations.",
+      "rating": 4.7
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c07"
+  },
+  "name": "Iklash Singh",
+  "email": "iklash.singh59@example.com",
+  "category": "Data Analyst",
+  "price": 573,
+  "city": "Jaipur",
+  "pincode": "224739",
+  "averageRating": 4.8,
+  "projects": [
+    {
+      "projectTitle": "Data Analyst Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 458,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.8
+    },
+    {
+      "projectTitle": "Data Analyst Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 343,
+      "review": "Work met expectations.",
+      "rating": 4.6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c08"
+  },
+  "name": "Priya Agarwal",
+  "email": "priya.agarwal81@example.com",
+  "category": "Financial Consultant",
+  "price": 985,
+  "city": "Bangalore",
+  "pincode": "720499",
+  "averageRating": 3,
+  "projects": [
+    {
+      "projectTitle": "Financial Consultant Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 788,
+      "review": "Great experience and timely delivery.",
+      "rating": 3
+    },
+    {
+      "projectTitle": "Financial Consultant Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 591,
+      "review": "Work met expectations.",
+      "rating": 2.8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c09"
+  },
+  "name": "Meena Verma",
+  "email": "meena.verma21@example.com",
+  "category": "Financial Consultant",
+  "price": 327,
+  "city": "Kolkata",
+  "pincode": "324943",
+  "averageRating": 4.8,
+  "projects": [
+    {
+      "projectTitle": "Financial Consultant Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 261,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.8
+    },
+    {
+      "projectTitle": "Financial Consultant Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 196,
+      "review": "Work met expectations.",
+      "rating": 4.6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c0a"
+  },
+  "name": "Iklash Agarwal",
+  "email": "iklash.agarwal26@example.com",
+  "category": "Financial Consultant",
+  "price": 210,
+  "city": "Bangalore",
+  "pincode": "197479",
+  "averageRating": 4.9,
+  "projects": [
+    {
+      "projectTitle": "Financial Consultant Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 168,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.9
+    },
+    {
+      "projectTitle": "Financial Consultant Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 126,
+      "review": "Work met expectations.",
+      "rating": 4.7
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c0b"
+  },
+  "name": "Simran Agarwal",
+  "email": "simran.agarwal36@example.com",
+  "category": "Interior Designer",
+  "price": 477,
+  "city": "Surat",
+  "pincode": "206148",
+  "averageRating": 3.4,
+  "projects": [
+    {
+      "projectTitle": "Interior Designer Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 381,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.4
+    },
+    {
+      "projectTitle": "Interior Designer Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 286,
+      "review": "Work met expectations.",
+      "rating": 3.1999999999999997
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c0c"
+  },
+  "name": "Riya Kumar",
+  "email": "riya.kumar81@example.com",
+  "category": "Interior Designer",
+  "price": 913,
+  "city": "Delhi",
+  "pincode": "821330",
+  "averageRating": 4.9,
+  "projects": [
+    {
+      "projectTitle": "Interior Designer Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 730,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.9
+    },
+    {
+      "projectTitle": "Interior Designer Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 547,
+      "review": "Work met expectations.",
+      "rating": 4.7
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c0d"
+  },
+  "name": "Ganesh Singh",
+  "email": "ganesh.singh43@example.com",
+  "category": "Interior Designer",
+  "price": 428,
+  "city": "Chennai",
+  "pincode": "426391",
+  "averageRating": 3,
+  "projects": [
+    {
+      "projectTitle": "Interior Designer Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 342,
+      "review": "Great experience and timely delivery.",
+      "rating": 3
+    },
+    {
+      "projectTitle": "Interior Designer Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 256,
+      "review": "Work met expectations.",
+      "rating": 2.8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c0e"
+  },
+  "name": "Karan Mehra",
+  "email": "karan.mehra3@example.com",
+  "category": "Legal Advisor",
+  "price": 370,
+  "city": "Jaipur",
+  "pincode": "538928",
+  "averageRating": 3.6,
+  "projects": [
+    {
+      "projectTitle": "Legal Advisor Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 296,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.6
+    },
+    {
+      "projectTitle": "Legal Advisor Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 222,
+      "review": "Work met expectations.",
+      "rating": 3.4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c0f"
+  },
+  "name": "Karan Agarwal",
+  "email": "karan.agarwal88@example.com",
+  "category": "Legal Advisor",
+  "price": 255,
+  "city": "Chennai",
+  "pincode": "550314",
+  "averageRating": 4.8,
+  "projects": [
+    {
+      "projectTitle": "Legal Advisor Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 204,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.8
+    },
+    {
+      "projectTitle": "Legal Advisor Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 153,
+      "review": "Work met expectations.",
+      "rating": 4.6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c10"
+  },
+  "name": "Ganesh Chopra",
+  "email": "ganesh.chopra41@example.com",
+  "category": "Legal Advisor",
+  "price": 155,
+  "city": "Pune",
+  "pincode": "538873",
+  "averageRating": 3.9,
+  "projects": [
+    {
+      "projectTitle": "Legal Advisor Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 124,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.9
+    },
+    {
+      "projectTitle": "Legal Advisor Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 93,
+      "review": "Work met expectations.",
+      "rating": 3.6999999999999997
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c11"
+  },
+  "name": "Karan Das",
+  "email": "karan.das56@example.com",
+  "category": "Fitness Trainer",
+  "price": 532,
+  "city": "Ahmedabad",
+  "pincode": "100730",
+  "averageRating": 4.5,
+  "projects": [
+    {
+      "projectTitle": "Fitness Trainer Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 425,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.5
+    },
+    {
+      "projectTitle": "Fitness Trainer Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 319,
+      "review": "Work met expectations.",
+      "rating": 4.3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c12"
+  },
+  "name": "Simran Chopra",
+  "email": "simran.chopra87@example.com",
+  "category": "Fitness Trainer",
+  "price": 768,
+  "city": "Mumbai",
+  "pincode": "574880",
+  "averageRating": 3.8,
+  "projects": [
+    {
+      "projectTitle": "Fitness Trainer Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 614,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.8
+    },
+    {
+      "projectTitle": "Fitness Trainer Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 460,
+      "review": "Work met expectations.",
+      "rating": 3.5999999999999996
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c13"
+  },
+  "name": "Sahil Verma",
+  "email": "sahil.verma26@example.com",
+  "category": "Fitness Trainer",
+  "price": 768,
+  "city": "Chennai",
+  "pincode": "744151",
+  "averageRating": 3.5,
+  "projects": [
+    {
+      "projectTitle": "Fitness Trainer Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 614,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.5
+    },
+    {
+      "projectTitle": "Fitness Trainer Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 460,
+      "review": "Work met expectations.",
+      "rating": 3.3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c14"
+  },
+  "name": "Simran Das",
+  "email": "simran.das2@example.com",
+  "category": "Event Planner",
+  "price": 686,
+  "city": "Kolkata",
+  "pincode": "462954",
+  "averageRating": 3.9,
+  "projects": [
+    {
+      "projectTitle": "Event Planner Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 548,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.9
+    },
+    {
+      "projectTitle": "Event Planner Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 411,
+      "review": "Work met expectations.",
+      "rating": 3.6999999999999997
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c15"
+  },
+  "name": "Karan Kumar",
+  "email": "karan.kumar7@example.com",
+  "category": "Event Planner",
+  "price": 493,
+  "city": "Hyderabad",
+  "pincode": "242681",
+  "averageRating": 4.2,
+  "projects": [
+    {
+      "projectTitle": "Event Planner Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 394,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.2
+    },
+    {
+      "projectTitle": "Event Planner Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 295,
+      "review": "Work met expectations.",
+      "rating": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c16"
+  },
+  "name": "Ahamed Nair",
+  "email": "ahamed.nair86@example.com",
+  "category": "Event Planner",
+  "price": 221,
+  "city": "Hyderabad",
+  "pincode": "139841",
+  "averageRating": 3.8,
+  "projects": [
+    {
+      "projectTitle": "Event Planner Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 176,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.8
+    },
+    {
+      "projectTitle": "Event Planner Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 132,
+      "review": "Work met expectations.",
+      "rating": 3.5999999999999996
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c17"
+  },
+  "name": "Neha Mehra",
+  "email": "neha.mehra79@example.com",
+  "category": "Translator",
+  "price": 713,
+  "city": "Delhi",
+  "pincode": "289208",
+  "averageRating": 4.1,
+  "projects": [
+    {
+      "projectTitle": "Translator Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 570,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.1
+    },
+    {
+      "projectTitle": "Translator Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 427,
+      "review": "Work met expectations.",
+      "rating": 3.8999999999999995
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c18"
+  },
+  "name": "Riya Reddy",
+  "email": "riya.reddy30@example.com",
+  "category": "Translator",
+  "price": 423,
+  "city": "Surat",
+  "pincode": "687577",
+  "averageRating": 4.2,
+  "projects": [
+    {
+      "projectTitle": "Translator Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 338,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.2
+    },
+    {
+      "projectTitle": "Translator Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 253,
+      "review": "Work met expectations.",
+      "rating": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c19"
+  },
+  "name": "Ahamed Nair",
+  "email": "ahamed.nair23@example.com",
+  "category": "Translator",
+  "price": 376,
+  "city": "Mumbai",
+  "pincode": "460915",
+  "averageRating": 3.8,
+  "projects": [
+    {
+      "projectTitle": "Translator Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 300,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.8
+    },
+    {
+      "projectTitle": "Translator Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 225,
+      "review": "Work met expectations.",
+      "rating": 3.5999999999999996
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c1a"
+  },
+  "name": "Karan Singh",
+  "email": "karan.singh53@example.com",
+  "category": "Chef",
+  "price": 869,
+  "city": "Ahmedabad",
+  "pincode": "386726",
+  "averageRating": 4.7,
+  "projects": [
+    {
+      "projectTitle": "Chef Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 695,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.7
+    },
+    {
+      "projectTitle": "Chef Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 521,
+      "review": "Work met expectations.",
+      "rating": 4.5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c1b"
+  },
+  "name": "Divya Das",
+  "email": "divya.das20@example.com",
+  "category": "Chef",
+  "price": 390,
+  "city": "Chennai",
+  "pincode": "741142",
+  "averageRating": 3.7,
+  "projects": [
+    {
+      "projectTitle": "Chef Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 312,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.7
+    },
+    {
+      "projectTitle": "Chef Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 234,
+      "review": "Work met expectations.",
+      "rating": 3.5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c1c"
+  },
+  "name": "Karan Kumar",
+  "email": "karan.kumar50@example.com",
+  "category": "Chef",
+  "price": 244,
+  "city": "Chennai",
+  "pincode": "633637",
+  "averageRating": 4,
+  "projects": [
+    {
+      "projectTitle": "Chef Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 195,
+      "review": "Great experience and timely delivery.",
+      "rating": 4
+    },
+    {
+      "projectTitle": "Chef Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 146,
+      "review": "Work met expectations.",
+      "rating": 3.8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c1d"
+  },
+  "name": "Ankit Verma",
+  "email": "ankit.verma59@example.com",
+  "category": "Tutor",
+  "price": 783,
+  "city": "Bangalore",
+  "pincode": "696390",
+  "averageRating": 4.8,
+  "projects": [
+    {
+      "projectTitle": "Tutor Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 626,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.8
+    },
+    {
+      "projectTitle": "Tutor Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 469,
+      "review": "Work met expectations.",
+      "rating": 4.6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c1e"
+  },
+  "name": "Rohit Das",
+  "email": "rohit.das88@example.com",
+  "category": "Tutor",
+  "price": 984,
+  "city": "Jaipur",
+  "pincode": "862080",
+  "averageRating": 3.6,
+  "projects": [
+    {
+      "projectTitle": "Tutor Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 787,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.6
+    },
+    {
+      "projectTitle": "Tutor Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 590,
+      "review": "Work met expectations.",
+      "rating": 3.4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c1f"
+  },
+  "name": "Simran Mehra",
+  "email": "simran.mehra97@example.com",
+  "category": "Tutor",
+  "price": 195,
+  "city": "Mumbai",
+  "pincode": "706662",
+  "averageRating": 3.3,
+  "projects": [
+    {
+      "projectTitle": "Tutor Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 156,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.3
+    },
+    {
+      "projectTitle": "Tutor Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 117,
+      "review": "Work met expectations.",
+      "rating": 3.0999999999999996
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c20"
+  },
+  "name": "Simran Singh",
+  "email": "simran.singh5@example.com",
+  "category": "Customer Support Executive",
+  "price": 928,
+  "city": "Mumbai",
+  "pincode": "328107",
+  "averageRating": 4.4,
+  "projects": [
+    {
+      "projectTitle": "Customer Support Executive Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 742,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.4
+    },
+    {
+      "projectTitle": "Customer Support Executive Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 556,
+      "review": "Work met expectations.",
+      "rating": 4.2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c21"
+  },
+  "name": "Rohit Chopra",
+  "email": "rohit.chopra48@example.com",
+  "category": "Customer Support Executive",
+  "price": 949,
+  "city": "Hyderabad",
+  "pincode": "308497",
+  "averageRating": 3.1,
+  "projects": [
+    {
+      "projectTitle": "Customer Support Executive Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 759,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.1
+    },
+    {
+      "projectTitle": "Customer Support Executive Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 569,
+      "review": "Work met expectations.",
+      "rating": 2.9
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c22"
+  },
+  "name": "Simran Reddy",
+  "email": "simran.reddy15@example.com",
+  "category": "Customer Support Executive",
+  "price": 254,
+  "city": "Mumbai",
+  "pincode": "695058",
+  "averageRating": 4.1,
+  "projects": [
+    {
+      "projectTitle": "Customer Support Executive Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 203,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.1
+    },
+    {
+      "projectTitle": "Customer Support Executive Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 152,
+      "review": "Work met expectations.",
+      "rating": 3.8999999999999995
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c23"
+  },
+  "name": "Rohit Patel",
+  "email": "rohit.patel41@example.com",
+  "category": "Project Manager",
+  "price": 524,
+  "city": "Bangalore",
+  "pincode": "376842",
+  "averageRating": 3,
+  "projects": [
+    {
+      "projectTitle": "Project Manager Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 419,
+      "review": "Great experience and timely delivery.",
+      "rating": 3
+    },
+    {
+      "projectTitle": "Project Manager Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 314,
+      "review": "Work met expectations.",
+      "rating": 2.8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c24"
+  },
+  "name": "Neha Iyer",
+  "email": "neha.iyer12@example.com",
+  "category": "Project Manager",
+  "price": 730,
+  "city": "Bangalore",
+  "pincode": "386443",
+  "averageRating": 4.5,
+  "projects": [
+    {
+      "projectTitle": "Project Manager Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 584,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.5
+    },
+    {
+      "projectTitle": "Project Manager Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 438,
+      "review": "Work met expectations.",
+      "rating": 4.3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c25"
+  },
+  "name": "Neha Kumar",
+  "email": "neha.kumar90@example.com",
+  "category": "Project Manager",
+  "price": 672,
+  "city": "Delhi",
+  "pincode": "237575",
+  "averageRating": 4.9,
+  "projects": [
+    {
+      "projectTitle": "Project Manager Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 537,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.9
+    },
+    {
+      "projectTitle": "Project Manager Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 403,
+      "review": "Work met expectations.",
+      "rating": 4.7
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c26"
+  },
+  "name": "Ankit Mehra",
+  "email": "ankit.mehra34@example.com",
+  "category": "Video Editor",
+  "price": 436,
+  "city": "Delhi",
+  "pincode": "475651",
+  "averageRating": 3.3,
+  "projects": [
+    {
+      "projectTitle": "Video Editor Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 348,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.3
+    },
+    {
+      "projectTitle": "Video Editor Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 261,
+      "review": "Work met expectations.",
+      "rating": 3.0999999999999996
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c27"
+  },
+  "name": "Simran Sharma",
+  "email": "simran.sharma64@example.com",
+  "category": "Video Editor",
+  "price": 560,
+  "city": "Hyderabad",
+  "pincode": "878253",
+  "averageRating": 3,
+  "projects": [
+    {
+      "projectTitle": "Video Editor Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 448,
+      "review": "Great experience and timely delivery.",
+      "rating": 3
+    },
+    {
+      "projectTitle": "Video Editor Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 336,
+      "review": "Work met expectations.",
+      "rating": 2.8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c28"
+  },
+  "name": "Ankit Reddy",
+  "email": "ankit.reddy58@example.com",
+  "category": "Video Editor",
+  "price": 329,
+  "city": "Pune",
+  "pincode": "164541",
+  "averageRating": 4.9,
+  "projects": [
+    {
+      "projectTitle": "Video Editor Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 263,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.9
+    },
+    {
+      "projectTitle": "Video Editor Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 197,
+      "review": "Work met expectations.",
+      "rating": 4.7
+    }
+  ]
+},
+
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c38"
+  },
+  "name": "Priya Singh",
+  "email": "priya.singh9@example.com",
+  "category": "Architect",
+  "price": 678,
+  "city": "Bangalore",
+  "pincode": "856174",
+  "averageRating": 3.3,
+  "projects": [
+    {
+      "projectTitle": "Architect Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 542,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.3
+    },
+    {
+      "projectTitle": "Architect Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 406,
+      "review": "Work met expectations.",
+      "rating": 3.0999999999999996
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c39"
+  },
+  "name": "Sahil Patel",
+  "email": "sahil.patel28@example.com",
+  "category": "Architect",
+  "price": 170,
+  "city": "Pune",
+  "pincode": "636507",
+  "averageRating": 4.9,
+  "projects": [
+    {
+      "projectTitle": "Architect Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 136,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.9
+    },
+    {
+      "projectTitle": "Architect Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 102,
+      "review": "Work met expectations.",
+      "rating": 4.7
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c3a"
+  },
+  "name": "Sahil Iyer",
+  "email": "sahil.iyer87@example.com",
+  "category": "Architect",
+  "price": 957,
+  "city": "Chennai",
+  "pincode": "946147",
+  "averageRating": 4.8,
+  "projects": [
+    {
+      "projectTitle": "Architect Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 765,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.8
+    },
+    {
+      "projectTitle": "Architect Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 574,
+      "review": "Work met expectations.",
+      "rating": 4.6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c3b"
+  },
+  "name": "Rohit Verma",
+  "email": "rohit.verma79@example.com",
+  "category": "Copywriter",
+  "price": 365,
+  "city": "Kolkata",
+  "pincode": "228094",
+  "averageRating": 3.5,
+  "projects": [
+    {
+      "projectTitle": "Copywriter Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 292,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.5
+    },
+    {
+      "projectTitle": "Copywriter Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 219,
+      "review": "Work met expectations.",
+      "rating": 3.3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c3c"
+  },
+  "name": "Iklash Singh",
+  "email": "iklash.singh15@example.com",
+  "category": "Copywriter",
+  "price": 880,
+  "city": "Kolkata",
+  "pincode": "335144",
+  "averageRating": 4.1,
+  "projects": [
+    {
+      "projectTitle": "Copywriter Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 704,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.1
+    },
+    {
+      "projectTitle": "Copywriter Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 528,
+      "review": "Work met expectations.",
+      "rating": 3.8999999999999995
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c3d"
+  },
+  "name": "Santosh Singh",
+  "email": "santosh.singh86@example.com",
+  "category": "Copywriter",
+  "price": 699,
+  "city": "Kolkata",
+  "pincode": "180331",
+  "averageRating": 3.7,
+  "projects": [
+    {
+      "projectTitle": "Copywriter Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 559,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.7
+    },
+    {
+      "projectTitle": "Copywriter Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 419,
+      "review": "Work met expectations.",
+      "rating": 3.5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c3e"
+  },
+  "name": "Iklash Iyer",
+  "email": "iklash.iyer63@example.com",
+  "category": "Voice Over Artist",
+  "price": 332,
+  "city": "Hyderabad",
+  "pincode": "966114",
+  "averageRating": 3.6,
+  "projects": [
+    {
+      "projectTitle": "Voice Over Artist Project 1",
+      "clientName": "Client 1",
+      "clientEmail": "client1@example.com",
+      "amount": 265,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.6
+    },
+    {
+      "projectTitle": "Voice Over Artist Assignment 1",
+      "clientName": "Company 2",
+      "clientEmail": "client2@example.com",
+      "amount": 199,
+      "review": "Work met expectations.",
+      "rating": 3.4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c3f"
+  },
+  "name": "Iklash Iyer",
+  "email": "iklash.iyer9@example.com",
+  "category": "Voice Over Artist",
+  "price": 595,
+  "city": "Delhi",
+  "pincode": "641748",
+  "averageRating": 4.1,
+  "projects": [
+    {
+      "projectTitle": "Voice Over Artist Project 2",
+      "clientName": "Client 2",
+      "clientEmail": "client2@example.com",
+      "amount": 476,
+      "review": "Great experience and timely delivery.",
+      "rating": 4.1
+    },
+    {
+      "projectTitle": "Voice Over Artist Assignment 2",
+      "clientName": "Company 3",
+      "clientEmail": "client3@example.com",
+      "amount": 357,
+      "review": "Work met expectations.",
+      "rating": 3.8999999999999995
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f8d51d56a6167ff0aa5c40"
+  },
+  "name": "Santosh Verma",
+  "email": "santosh.verma69@example.com",
+  "category": "Voice Over Artist",
+  "price": 492,
+  "city": "Jaipur",
+  "pincode": "690365",
+  "averageRating": 3.9,
+  "projects": [
+    {
+      "projectTitle": "Voice Over Artist Project 3",
+      "clientName": "Client 3",
+      "clientEmail": "client3@example.com",
+      "amount": 393,
+      "review": "Great experience and timely delivery.",
+      "rating": 3.9
+    },
+    {
+      "projectTitle": "Voice Over Artist Assignment 3",
+      "clientName": "Company 4",
+      "clientEmail": "client4@example.com",
+      "amount": 295,
+      "review": "Work met expectations.",
+      "rating": 3.6999999999999997
+    }
+  ]
+}]

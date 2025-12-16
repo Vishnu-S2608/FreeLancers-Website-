@@ -1,0 +1,69 @@
+## About Us
+Freelancer Connect is a leading online platform connecting businesses with skilled freelancers worldwide. Our mission is to make hiring top talent fast, safe, and transparent. We offer a wide range of services including web development, graphic design, content writing, mobile app development, SEO, marketing, and more.
+
+## Services Offered
+- Web Development: Build websites, e-commerce platforms, and web applications.
+- Graphic Design: Logos, branding, marketing materials, and UI/UX design.
+- Mobile App Development: iOS, Android, cross-platform apps.
+- Content Writing: Blogs, articles, marketing copy, technical writing.
+- SEO & Marketing: Search engine optimization, social media marketing, ad campaigns.
+- Other Freelance Services: Translation, video editing, consulting, and more.
+
+## How It Works
+1. Post a Project: Create a job posting detailing your requirements.
+2. Browse Freelancers: Search freelancers by skill, rating, and location.
+3. Hire a Freelancer: Select the best candidate based on skills, rating, and project history.
+4. Payment & Milestones: Pay securely through our platform using milestones.
+5. Review & Feedback: Provide feedback and ratings to maintain quality.
+
+## Privacy Policy
+- We collect and store user information such as name, email, payment info, and project details.
+- We do not share personal data with third parties without consent, except to process payments or comply with legal requirements.
+- Users can request deletion of their account and personal data at any time.
+
+## Refund Policy
+- Clients can request refunds within 7 days if project milestones are not met or work is unsatisfactory.
+- Freelancers are paid for completed milestones only.
+- Disputes are handled by our support team after review.
+
+## Terms of Service
+- Users must provide accurate information when creating accounts.
+- Freelancers agree to deliver work on time and maintain professional conduct.
+- Any fraudulent activity, harassment, or misuse may lead to account suspension or termination.
+
+## Intellectual Property
+- Clients retain ownership of project deliverables unless otherwise specified.
+- Freelancers agree not to reuse client work without explicit permission.
+
+## Communication Policy
+- All project-related communication should take place through our platform messaging system.
+- External contact info sharing is allowed only with mutual consent.
+
+## Customer Support
+- Email: support@freelancerconnect.com
+- Phone: +1-800-555-1234
+- Live Chat: Available Monday to Friday, 9 AM – 6 PM (EST)
+- Response Time: Usually within 24 hours
+
+## FAQs
+Q: How do I find the best freelancer?
+A: Use our search filters for category, rating, city, and completed projects. Check freelancer profiles and reviews.
+
+Q: How do I pay a freelancer?
+A: Payments are processed securely through the platform. You can release funds through milestones.
+
+Q: Can I cancel a project?
+A: Yes, a project can be canceled anytime. Refunds depend on completed work and milestones.
+
+Q: How is freelancer rating calculated?
+A: Ratings are based on client reviews, completed projects, and overall performance. AverageRating is updated after each project review.
+
+## Security & Safety
+- All payments are securely encrypted.
+- We monitor accounts for fraudulent activity.
+- Users are encouraged to report suspicious behavior immediately.
+
+## Contact & Feedback
+We value your feedback! For inquiries, suggestions, or complaints, please reach out via our support channels.
+
+Thank you for using Freelancer Connect – Connecting Talent, Delivering Excellence.
